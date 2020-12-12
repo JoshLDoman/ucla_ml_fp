@@ -3,7 +3,7 @@
 ## Machine Learning Modeling Predicting Loan Acceptance Based on Payback Potential
 
 Link to Source Files: (https://drive.google.com/drive/folders/17pNnXc9P4oMF17pt6OD4tkTyBBtpb2Ef?usp=sharing
-Link to Analysis Paper: (
+Link to Analysis Paper: (https://drive.google.com/file/d/10mPFKQJRQClu4qrizuRkDCXRRC6_sRkH/view?usp=sharing)
 
 ## Problem Statement
 A number of lending institutions struggle to be sure whether certain clients are trustworthy borrowers or are likely to default on their loan due to a lack of sufficient credit.Such institutions require a robust model that could use machine learning to predict a client’s trustworthiness in borrowing based on a set of known facts about them such as their income and credit card balance. This is a very important problem to address because there are vast numbers of unbanked individuals without a significant credit history who are deserving of loans but incapable of receiving them. Creating a model that could assure lenders of the payback potential of borrowers would create significant opportunities, not only for unbanked borrowers, but also for lenders who can expand their business.
@@ -35,7 +35,7 @@ We would like to identify the outliers of numerical variables using histograms a
 We will be using multilinear regression to predict the payback potential of each client based on various independent variables. As the independent variable is either of 0 (no payback) or 1 (payback), we will see the model performance by area under the ROC curve. We will be using algorithms such as Logistic Regression, Linear Discriminant Analysis, Quadratic Discriminant Analysis, K-Nearest Neighbors, Support Vector Machines, Random Forest, Gradient Boosting Decision Tree (e.g. XGBoost), and Neural Network covered in “An Introduction to Statistical Learning” and popular algorithms in machine learning competitions. Also, we will be testing the ensemble method of several models to see if it would improve the score.
 
 ## Folder Structure
-as of December 2nd
+as of December 2, 2020
 ~~~
 .
 ├── train_test_split                    # Split training and test data
