@@ -4,7 +4,7 @@
 
 [Link to Source Files](https://drive.google.com/drive/folders/17pNnXc9P4oMF17pt6OD4tkTyBBtpb2Ef?usp=sharing)
 
-[Link to Analysis Paper](https://drive.google.com/file/d/10mPFKQJRQClu4qrizuRkDCXRRC6_sRkH/view?usp=sharing)
+[Link to Analysis Paper](https://drive.google.com/file/d/1F9BkC96v9YdJHpJ5DxoZedzvCgfbW7j1/view?usp=sharing)
 
 ## Problem Statement
 A number of lending institutions struggle to be sure whether certain clients are trustworthy borrowers or are likely to default on their loan due to a lack of sufficient credit.Such institutions require a robust model that could use machine learning to predict a client’s trustworthiness in borrowing based on a set of known facts about them such as their income and credit card balance. This is a very important problem to address because there are vast numbers of unbanked individuals without a significant credit history who are deserving of loans but incapable of receiving them. Creating a model that could assure lenders of the payback potential of borrowers would create significant opportunities, not only for unbanked borrowers, but also for lenders who can expand their business.
