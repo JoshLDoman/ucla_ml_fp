@@ -1,4 +1,4 @@
-#  University of California Los Angeles, Extension<br>Machine Learning (COM SCI-X 450.4), Fall 2020<br>Final Project
+#  University of California Los Angeles<br>Machine Learning (COM SCI-X 450.4), Fall 2020<br>Final Project
 
 ## Machine Learning Modeling Predicting Loan Acceptance Based on Payback Potential
 
